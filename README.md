@@ -1,5 +1,6 @@
 #sra-font
 
+Version 1.0.1
 
 An Icon font in use on the SRA's wordpress installation.
 
